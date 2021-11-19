@@ -98,6 +98,6 @@ we can modify EAS register with set command.
 for solving this challenge and for revisiting GDB, opening this in GDB (no plugins).
 we can set breakpoint at respective address with `b <address>`
 and then we can use `ni` for next instruction.
-and we see we esacped check and it printed something in frech/spanish whaterver, its password !!!.
+and we see we esacped check and it printed something I am unable to understand, its password !!!.
 
 ![Solved ! <image>](https://github.com/0x7EVEN/Blogs/blob/main/images/solved.jpg?raw=true)
