@@ -5,9 +5,9 @@ these are blogs related to CTF writeups and Web development.
 ## topics 
 - Reverse  Enginerring
    - Basic Level
-     - Loli Crackmes // todo
+     - Radare2 learning writups
      - Random Challenges
-     - Stack based pwning  // todo
+     - Stack based attacks  // todo
    - Practice Challenges Blogs/Learnings // todo
    - CTF writeups // todo
 
