@@ -138,7 +138,7 @@ so sum should be equale to 0x10 and should be even!
     Password: 88
     Password OK!
 ```
-![pwned](https://github.com/0x7EVEN/Blogs/blob/main/ReverseEngineering/Basics/Loli/pwned.jpg?raw=true)
+![pwned](https://github.com/0x7EVEN/Blogs/blob/main/ReverseEngineering/Basics/Radare2/pwned.jpg?raw=true)
 
 
 : )
