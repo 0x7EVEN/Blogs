@@ -1,5 +1,8 @@
 ## crackme0x05
-
+this crackmes is series of intresting crackmes for practicing radare2 and fun.
+we start with `r2 -d <binary>`
+for analyze all and print disassebly use  `aa` and `pdf`.
+we see: 
 ```
     [0x080483d0]> aa
     [0x080483d0]> pdf@sym.main
