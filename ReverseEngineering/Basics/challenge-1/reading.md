@@ -1,6 +1,5 @@
-Challenge : Random
-Dificulty : Beginner 
-//will soon add challenge binary in same directory as blog;
+Challenge : Random<br/>
+Dificulty : Beginner //will soon add challenge binary in same directory as blog;
   
 ---
 ## Prerequisite
@@ -91,7 +90,7 @@ we can see there are two checkes : `user` and `pass`
 \           0x080483e9      c3             ret
 [0x08048309]> 
 ```
-
+we see there is password : ) but still let's solve it another way in GDB.
 as we see there are two tests which check register EAX value and makes a jump based on result stored in EAX.
 we can modify EAS register with set command.
 
