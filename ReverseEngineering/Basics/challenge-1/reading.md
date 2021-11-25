@@ -3,7 +3,7 @@ Dificulty : Beginner
 //will soon add challenge binary in same directory as blog;
   
 ---
-#Prerequisite
+## Prerequisite
 - Basics of Reverse Engineering 
 - Debugger / Decompiler // for this challenge we will use Radare2 and GNU debugger GDB.
 - Assembly
