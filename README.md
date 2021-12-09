@@ -11,4 +11,4 @@ these are blogs related to CTF writeups and Web development.
    - Practice Challenges Blogs/Learnings // todo
    - CTF writeups // todo
 - Binary Exploitation
-- Web Dev // !todo
+- Web Dev // todo
